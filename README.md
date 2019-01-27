@@ -11,7 +11,6 @@ Author's Email: 97Randy.le@gmail.com
 Course: CPSC223N
 
 ## Files
-Source Files:
 1. billiardmain.cs
 2. billiardframe.cs
 3. billiardlogic.cs
