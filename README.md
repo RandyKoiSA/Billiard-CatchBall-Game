@@ -3,12 +3,12 @@ A ball game where you have to click on the ball to gain point. After clicking on
 ball resets but the speed increases slightly. When the ball reaches to the borders of the program, it will
 ricochet the wall and continue bouncing but still have the same speed. <br>
 ## Info
-Language: C# 
-Software: Monodevelop
-Distribution: Xubuntu
-Author: Randy Le
-Author's Email: 97Randy.le@gmail.com
-Course: CPSC223N
+Language: C# <br>
+Software: Monodevelop<br>
+Distribution: Xubuntu<br>
+Author: Randy Le<br>
+Author's Email: 97Randy.le@gmail.com<br>
+Course: CPSC223N<br>
 
 ## Files
 1. billiardmain.cs
