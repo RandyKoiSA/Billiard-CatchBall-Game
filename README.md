@@ -1,4 +1,4 @@
-# Repository Name: Billiard-CatchBall-Game
+# Repository Name: Ricochet-Ball-Game
 A ball game where you have to click on the ball to gain point. After clicking on the ball the
 ball resets but the speed increases slightly. When the ball reaches to the borders of the program, it will
 ricochet the wall and continue bouncing but still have the same speed. <br>
